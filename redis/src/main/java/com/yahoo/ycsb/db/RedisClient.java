@@ -31,7 +31,7 @@ import com.yahoo.ycsb.Status;
 import com.yahoo.ycsb.StringByteIterator;
 
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.Protocol;
+//import redis.clients.jedis.Protocol;
 
 import java.util.HashMap;
 import java.util.Iterator;
